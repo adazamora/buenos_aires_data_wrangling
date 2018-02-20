@@ -1,0 +1,4 @@
+I decided to study the area of Buenos Aires, Argentina because I moved to this city recently and I wanted to know more about the city. 
+I downloaded the data in osm format from this link: 
+
+https://mapzen.com/data/metro-extracts/metro/buenos-aires_argentina/
