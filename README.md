@@ -10,6 +10,7 @@ This project was part of the Udacity "Data Wrangling" course.
 Each .py file starts with a letter that indicates the order that the files should be run, as variables and data from some files is later used in other files.
 
 The order of the files is as follows: 
+
 a_write_samples.py
 
 b_top_level_tags.py 
