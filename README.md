@@ -11,13 +11,21 @@ Each .py file starts with a letter that indicates the order that the files shoul
 
 The order of the files is as follows: 
 a_write_samples.py
+
 b_top_level_tags.py 
+
 c_audit_streets.py 
+
 d_audit_coordinates.py 
+
 e_audit_postal_codes.py 
+
 f_clean_osm_data.py
+
 g_write_csv.py 
+
 h_create_db.py
+
 i_db_queries.py 
 
 There’s also a schema.py file that contains the schema used to create the tables for the database. 
