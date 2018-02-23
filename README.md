@@ -10,30 +10,21 @@ This project was part of the Udacity "Data Wrangling" course.
 Each .py file starts with a letter that indicates the order that the files should be run, as variables and data from some files is later used in other files.
 
 The order of the files is as follows: 
-
-a_write_samples.py
-
-b_top_level_tags.py 
-
-c_audit_streets.py 
-
-d_audit_coordinates.py 
-
-e_audit_postal_codes.py 
-
-f_clean_osm_data.py
-
-g_write_csv.py 
-
-h_create_db.py
-
-i_db_queries.py 
+- a_write_samples.py
+- b_top_level_tags.py 
+- c_audit_streets.py 
+- d_audit_coordinates.py 
+- e_audit_postal_codes.py 
+- f_clean_osm_data.py
+- g_write_csv.py 
+- h_create_db.py
+- i_db_queries.py 
 
 There’s also a schema.py file that contains the schema used to create the tables for the database. 
 
 Rubic questions file refers to some questions I had to answer to submit the project and contains the results of the queries I executed on the dataset and some analysis.
 
-## Prerequisites
+## Requisites
 
 To install the requirements on a Pyhon 3.6.1 conda environment:
 
