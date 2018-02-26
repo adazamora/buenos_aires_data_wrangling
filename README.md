@@ -2,10 +2,10 @@
 
 I used data munging techniques to clean OpenStreetMap data from Buenos Aires, then exported it to a database and explored it running queries.
 
+This project was part of the Udacity "Data Wrangling" course. 
+
 
 ## Files information
-
-This project was part of the Udacity "Data Wrangling" course. 
 
 Each .py file starts with a letter that indicates the order that the files should be run, as variables and data from some files is later used in other files.
 
