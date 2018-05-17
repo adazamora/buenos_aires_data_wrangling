@@ -1,6 +1,6 @@
 # Buenos Aires Data Wrangling
 
-I used data munging techniques to clean OpenStreetMap data from Buenos Aires, then exported it to a database and explored it running queries.
+I used data munging techniques to clean OpenStreetMap data from Buenos Aires area, then exported the data to a database and explored it running queries in SQL.
 
 This project was part of the Udacity "Data Wrangling" course. 
 
