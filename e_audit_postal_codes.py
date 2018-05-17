@@ -101,7 +101,7 @@ def process_pc_sets():
     invalid_pc, not_in_set_pc, not_in_set_cut, strange_pc = verify_postal_codes("buenos-aires_argentina.osm")
 
     """
-    Now I want to study all the postal codes that dit not appear in the set_postalcodes to analyze if the codes 
+    Now I want to study all the postal codes that did not appear in the set_postalcodes to analyze if the codes 
     actually exist and are missing in the csv file or if those are invalid postal codes.
     
     To do this, I'll analyze each of the not_in_set_pc variable and google them to see if I find them:
